@@ -1,0 +1,20 @@
+#searchInput{
+  margin-top: 200px;
+  margin-left: 25%;
+  border-radius: 5px;
+  width: 40%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+#search-container button {
+    padding: 12px;
+    border-radius: 5px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
